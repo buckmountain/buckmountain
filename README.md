@@ -1,3 +1,3 @@
-Buck @buckmountain
-he/him
-Python Charmer
+- Buck @buckmountain
+- he/him
+- Python Charmer
